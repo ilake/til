@@ -15,6 +15,10 @@
 - require image in react-native
   - http://stackoverflow.com/questions/29308937/trouble-requiring-image-module-in-react-native
 
+# Compute sciences
+- WebSockets From Scratch
+  - https://blog.pusher.com/websockets-from-scratch/
+
 # tool
 - resize icons
   - http://makeappicon.com/
