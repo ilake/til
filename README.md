@@ -1,3 +1,7 @@
+## rails
+ - Ruby Threads and ActiveRecord Connections
+  - http://jakeyesbeck.com/2016/02/14/ruby-threads-and-active-record-connections/
+  - http://vigram-software-generals.blogspot.tw/2014/03/ruby-threads-activerecord-too-many.html
 ## javascript
 - async/await
   - https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html
