@@ -11,15 +11,16 @@
 #### books
  - https://github.com/bonniee/learning-react-native
 
+#### memo
+- require image in react-native
+  - http://stackoverflow.com/questions/29308937/trouble-requiring-image-module-in-react-native
+
 # devops
 
 #### deployment
  - When you have multiple servers for app, workers, search etc... and you have a upgrade like rails 4.1 to rails 4.2. You need to be careful of the different version of these servers. Like Rails 4.2 app, Rails 4.1 worker(app finished deployment first). It may has some problems and you probably need to deploy workers first.
  - Take care of the asset when you use auto-scale, the easist way to avoid any problem, expire everything `Rails.application.config.assets.version = "1.1"`
 
-#### tips
-- require image in react-native
-  - http://stackoverflow.com/questions/29308937/trouble-requiring-image-module-in-react-native
 
 # Compute sciences
 - WebSockets From Scratch
