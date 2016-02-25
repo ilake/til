@@ -1,12 +1,12 @@
-# rails
+# Rails
  - Ruby Threads and ActiveRecord Connections
   - http://jakeyesbeck.com/2016/02/14/ruby-threads-and-active-record-connections/
   - http://vigram-software-generals.blogspot.tw/2014/03/ruby-threads-activerecord-too-many.html
-# javascript
+# Javascript
 - async/await
   - https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html
 
-# react-native
+# React-native
 
 #### books
  - https://github.com/bonniee/learning-react-native
@@ -15,18 +15,20 @@
 - require image in react-native
   - http://stackoverflow.com/questions/29308937/trouble-requiring-image-module-in-react-native
 
-# devops
+# Devops
 
 #### deployment
  - When you have multiple servers for app, workers, search etc... and you have a upgrade like rails 4.1 to rails 4.2. You need to be careful of the different version of these servers. Like Rails 4.2 app, Rails 4.1 worker(app finished deployment first). It may has some problems and you probably need to deploy workers first.
  - Take care of the asset when you use auto-scale, the easist way to avoid any problem, expire everything `Rails.application.config.assets.version = "1.1"`
 
-
 # Compute sciences
 - WebSockets From Scratch
   - https://blog.pusher.com/websockets-from-scratch/
 
-# tool
+# Issue I met
+- [mysqldump special character issue](http://stackoverflow.com/questions/3583691/mysqldump-and-restore-with-special-characters-%C3%B8%C3%A6%C3%A5%C3%98%C3%86%C3%85)
+
+# Tool
 - resize icons
   - http://makeappicon.com/
 
