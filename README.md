@@ -2,6 +2,11 @@
  - Ruby Threads and ActiveRecord Connections
   - http://jakeyesbeck.com/2016/02/14/ruby-threads-and-active-record-connections/
   - http://vigram-software-generals.blogspot.tw/2014/03/ruby-threads-activerecord-too-many.html
+
+#### articles
+ - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
+
+
 # Javascript
 - async/await
   - https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html
