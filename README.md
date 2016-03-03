@@ -11,10 +11,12 @@
 - async/await
   - https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html
 
-# React-native
+# React
 
-#### books
+#### resources
  - https://github.com/bonniee/learning-react-native
+ - https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY
+ - [A cartoon intro to redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.a9bakoxwt)
 
 #### memo
 - require image in react-native
