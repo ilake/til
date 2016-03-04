@@ -27,6 +27,7 @@
 - [React with webpack - part 1](http://jslog.com/2014/10/02/react-with-webpack-part-1/)
  - use `render` to replace `renderComponent` http://stackoverflow.com/questions/30698585/react-typeerror-react-rendercomponent-is-not-a-function
 - [Getting Started](http://webpack.github.io/docs/tutorials/getting-started/)
+- [Howto](https://github.com/petehunt/webpack-howto)
 
 # Devops
 
