@@ -23,6 +23,10 @@
 - require image in react-native
   - http://stackoverflow.com/questions/29308937/trouble-requiring-image-module-in-react-native
 
+#### webpack
+- [React with webpack - part 1](http://jslog.com/2014/10/02/react-with-webpack-part-1/)
+ - use `render` to replace `renderComponent` http://stackoverflow.com/questions/30698585/react-typeerror-react-rendercomponent-is-not-a-function
+
 # Devops
 
 #### deployment
