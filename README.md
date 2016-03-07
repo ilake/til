@@ -22,6 +22,8 @@
 #### memo
 - require image in react-native
   - http://stackoverflow.com/questions/29308937/trouble-requiring-image-module-in-react-native
+- [What is data-react-checksum](http://stackoverflow.com/questions/34311221/what-is-checksum-in-react-and-how-to-use-it)
+- [Rendering React Components on the Server](http://www.crmarsh.com/react-ssr/)
 
 #### webpack
 - [React with webpack - part 1](http://jslog.com/2014/10/02/react-with-webpack-part-1/)
