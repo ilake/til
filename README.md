@@ -31,6 +31,7 @@
 - [Getting Started](http://webpack.github.io/docs/tutorials/getting-started/)
 - [Howto](https://github.com/petehunt/webpack-howto)
 - [Why You Should Try React and Rails Integration Using Webpack](https://www.netguru.co/blog/react-rails-webpack)
+- [React on rails](https://github.com/shakacode/react_on_rails/)
 
 # Devops
 
