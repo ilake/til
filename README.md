@@ -2,6 +2,10 @@
  - Ruby Threads and ActiveRecord Connections
   - http://jakeyesbeck.com/2016/02/14/ruby-threads-and-active-record-connections/
   - http://vigram-software-generals.blogspot.tw/2014/03/ruby-threads-activerecord-too-many.html
+ - Time
+  - https://github.com/ramhoj/time-zone-article/issues/1
+  - http://www.elabs.se/blog/36-working-with-time-zones-in-ruby-on-rails
+  - Use `Time.zone.now` or Time.now.in_time_zone("Taipei").to_date
 
 #### articles
  - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
