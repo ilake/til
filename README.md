@@ -8,6 +8,7 @@
   - Use `Time.zone.now` or Time.now.in_time_zone("Taipei").to_date
  - Transaction
   - http://markdaggett.com/blog/2011/12/01/transactions-in-rails/
+  - raise ActiveRecord::Rollback will invalidate a transaction and reset the database records, won't bubbles up through the application stack
 
 #### articles
  - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
