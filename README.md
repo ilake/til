@@ -9,6 +9,9 @@
  - Transaction
   - http://markdaggett.com/blog/2011/12/01/transactions-in-rails/
   - raise ActiveRecord::Rollback will invalidate a transaction and reset the database records, won't bubbles up through the application stack
+  - [Transactions are not distributed across database connections](http://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html#module-ActiveRecord::Transactions::ClassMethods-label-Transactions+are+not+distributed+across+database+connections)
+  - [nested transaction](http://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html#module-ActiveRecord::Transactions::ClassMethods-label-Nested+transactions)
+    -  Active Record emulates nested transactions by using [savepoints](http://dev.mysql.com/doc/refman/5.6/en/savepoint.html) on MySQL and PostgreSQL  
 
 #### articles
  - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
