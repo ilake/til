@@ -6,6 +6,8 @@
   - https://github.com/ramhoj/time-zone-article/issues/1
   - http://www.elabs.se/blog/36-working-with-time-zones-in-ruby-on-rails
   - Use `Time.zone.now` or Time.now.in_time_zone("Taipei").to_date
+ - Transaction
+  - http://markdaggett.com/blog/2011/12/01/transactions-in-rails/
 
 #### articles
  - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
