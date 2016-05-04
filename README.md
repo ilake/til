@@ -63,6 +63,7 @@
 # Others
  - [The Difference Between ID and Class](https://css-tricks.com/the-difference-between-id-and-class/)
  - [Adjacent sibling selectors, what plus + symbol means in css](https://www.w3.org/TR/CSS2/selector.html#adjacent-selectors)
+ - [About line-height](http://muki.tw/tech/css-line-height/)
 
 # Issue I met
 - [mysqldump special character issue](http://stackoverflow.com/questions/3583691/mysqldump-and-restore-with-special-characters-%C3%B8%C3%A6%C3%A5%C3%98%C3%86%C3%85)
