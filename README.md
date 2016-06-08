@@ -12,6 +12,8 @@
   - [Transactions are not distributed across database connections](http://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html#module-ActiveRecord::Transactions::ClassMethods-label-Transactions+are+not+distributed+across+database+connections)
   - [nested transaction](http://api.rubyonrails.org/classes/ActiveRecord/Transactions/ClassMethods.html#module-ActiveRecord::Transactions::ClassMethods-label-Nested+transactions)
     -  Active Record emulates nested transactions by using [savepoints](http://dev.mysql.com/doc/refman/5.6/en/savepoint.html) on MySQL and PostgreSQL  
+ - Others
+  - [config pattern](https://gist.github.com/ilake/fc68aee49aec15a4e2865a635863bb26)
 
 #### articles
  - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
