@@ -48,6 +48,9 @@
 - [Why You Should Try React and Rails Integration Using Webpack](https://www.netguru.co/blog/react-rails-webpack)
 - [React on rails](https://github.com/shakacode/react_on_rails/)
 
+#### others
+- [Perform debounce in React.js](http://stackoverflow.com/questions/23123138/perform-debounce-in-react-js/28046731#28046731)
+
 # Devops
 
 #### deployment
