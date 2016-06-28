@@ -22,6 +22,9 @@
 # Javascript
 - async/await
   - https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html
+- es6 string interpolation
+  -  http://stackoverflow.com/questions/21668025/react-jsx-access-props-in-quotes/30061326#30061326
+  -  ```{`images/${this.props.image}`}```
 
 # React
 
