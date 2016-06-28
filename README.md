@@ -51,7 +51,8 @@
 #### others
 - [Perform debounce in React.js](http://stackoverflow.com/questions/23123138/perform-debounce-in-react-js/28046731#28046731)
 - [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/)
-- https://github.com/planningcenter/react-patterns
+- [React pattern](https://github.com/planningcenter/react-patterns)
+- [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.4ap4eik7p)
 
 # Devops
 
