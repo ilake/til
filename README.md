@@ -84,6 +84,9 @@
  - code smell
    - https://www.youtube.com/watch?v=PJjHfa5yxlU
    - https://github.com/troessner/reek
+ - content too long
+  - http://note.tc.edu.tw/714.html
+  - `word-wrap: break-word;  overflow: hidden;`
 
 # Issue I met
 - [mysqldump special character issue](http://stackoverflow.com/questions/3583691/mysqldump-and-restore-with-special-characters-%C3%B8%C3%A6%C3%A5%C3%98%C3%86%C3%85)
