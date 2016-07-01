@@ -53,6 +53,7 @@
 - [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/)
 - [React pattern](https://github.com/planningcenter/react-patterns)
 - [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.4ap4eik7p)
+- [Pass value in onClick](http://stackoverflow.com/questions/29810914/react-js-onclick-cant-pass-value-to-method/29810951#29810951)
 
 # Devops
 
