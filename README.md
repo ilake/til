@@ -25,6 +25,10 @@
 - es6 string interpolation
   -  http://stackoverflow.com/questions/21668025/react-jsx-access-props-in-quotes/30061326#30061326
   -  ```{`images/${this.props.image}`}```
+- "use strict";
+ - http://www.ruanyifeng.com/blog/2013/01/javascript_strict_mode.html
+ - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+ - More serious rules, you could not write javascript whatever you want.
 
 # React
 
