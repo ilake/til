@@ -29,6 +29,9 @@
  - http://www.ruanyifeng.com/blog/2013/01/javascript_strict_mode.html
  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
  - More serious rules, you could not write javascript whatever you want.
+- namespace
+ - [pattern example](https://gist.github.com/ilake/ad63c66942c14469291f51d217ae01df)
+ - https://addyosmani.com/blog/essential-js-namespacing/
 
 # React
 
