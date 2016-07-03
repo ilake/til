@@ -107,6 +107,8 @@
    - `possible_keys`: when it is empty, it means no possible indexes
    - `key`: what query be used
    - `key_len` lower is better
+ - [Why Postgres Won't Always Use an Index](https://robots.thoughtbot.com/why-postgres-wont-always-use-an-index#how-indexes-are-used)
+  - 
 
 # Issue I met
 - [mysqldump special character issue](http://stackoverflow.com/questions/3583691/mysqldump-and-restore-with-special-characters-%C3%B8%C3%A6%C3%A5%C3%98%C3%86%C3%85)
