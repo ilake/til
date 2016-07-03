@@ -98,6 +98,15 @@
  - content too long
   - http://note.tc.edu.tw/714.html
   - `word-wrap: break-word;  overflow: hidden;`
+ - mysql explain
+  - http://emn178.pixnet.net/blog/post/83011289-mysql-explain---%E6%95%88%E8%83%BD%E5%88%86%E6%9E%90%E8%AA%9E%E5%8F%A5
+   - rows lower is better
+  - http://fecbob.pixnet.net/blog/post/39084799-mysql-%E4%B8%ADexplain%E7%9A%84%E7%94%A8%E6%B3%95
+  - http://database.51cto.com/art/201108/285710_all.htm
+   - `type`: from good -> bad. const、eq_reg、ref、range、indexhe then ALL
+   - `possible_keys`: when it is empty, it means no possible indexes
+   - `key`: what query be used
+   - `key_len` lower is better
 
 # Issue I met
 - [mysqldump special character issue](http://stackoverflow.com/questions/3583691/mysqldump-and-restore-with-special-characters-%C3%B8%C3%A6%C3%A5%C3%98%C3%86%C3%85)
