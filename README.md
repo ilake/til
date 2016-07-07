@@ -71,17 +71,6 @@
  - When you have multiple servers for app, workers, search etc... and you have a upgrade like rails 4.1 to rails 4.2. You need to be careful of the different version of these servers. Like Rails 4.2 app, Rails 4.1 worker(app finished deployment first). It may has some problems and you probably need to deploy workers first.
  - Take care of the asset when you use auto-scale, the easist way to avoid any problem, expire everything `Rails.application.config.assets.version = "1.1"`
 
-# Compute sciences
-- WebSockets From Scratch
-  - https://blog.pusher.com/websockets-from-scratch/
-- selec * for update
-  - https://gist.github.com/ilake/f163ccf349fdc288e009
-  - http://api.rubyonrails.org/classes/ActiveRecord/Locking/Optimistic.html
-  - http://stackoverflow.com/questions/21404484/rails-3-how-to-simply-test-pessimistic-locking-on-console
-  - [Prevent MySQL deadlocks in your Rails application](https://www.brightbox.com/blog/2014/11/13/preventing-mysql-deadlocks/)
-  - [MySQL locking for the busy web developer](https://www.brightbox.com/blog/2013/10/31/on-mysql-locks/)
-
-
 # Others
  - [The Difference Between ID and Class](https://css-tricks.com/the-difference-between-id-and-class/)
  - [Adjacent sibling selectors, what plus + symbol means in css](https://www.w3.org/TR/CSS2/selector.html#adjacent-selectors)
@@ -108,7 +97,15 @@
    - `key`: what query be used
    - `key_len` lower is better
  - [Why Postgres Won't Always Use an Index](https://robots.thoughtbot.com/why-postgres-wont-always-use-an-index#how-indexes-are-used)
-  - 
+ - WebSockets From Scratch
+  - https://blog.pusher.com/websockets-from-scratch/
+ - selec * for update
+  - https://gist.github.com/ilake/f163ccf349fdc288e009
+  - http://api.rubyonrails.org/classes/ActiveRecord/Locking/Optimistic.html
+  - http://stackoverflow.com/questions/21404484/rails-3-how-to-simply-test-pessimistic-locking-on-console
+  - [Prevent MySQL deadlocks in your Rails application](https://www.brightbox.com/blog/2014/11/13/preventing-mysql-deadlocks/)
+  - [MySQL locking for the busy web developer](https://www.brightbox.com/blog/2013/10/31/on-mysql-locks/)
+ - [CSS Order Priority](https://hungred.com/useful-information/css-priority-order-tips-tricks/) 
 
 # Issue I met
 - [mysqldump special character issue](http://stackoverflow.com/questions/3583691/mysqldump-and-restore-with-special-characters-%C3%B8%C3%A6%C3%A5%C3%98%C3%86%C3%85)
