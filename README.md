@@ -34,6 +34,7 @@
  - [pattern example](https://gist.github.com/ilake/ad63c66942c14469291f51d217ae01df)
  - https://addyosmani.com/blog/essential-js-namespacing/
 - [Prevent double click script](https://gist.github.com/ilake/b97de5c3235592280a0045b0f48670fd)
+- [Window.location](https://developer.mozilla.org/en-US/docs/Web/API/Window/location)
 
 # React
 
