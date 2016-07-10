@@ -1,4 +1,4 @@
-# Rails
+# Ruby/Rails
  - Ruby Threads and ActiveRecord Connections
   - http://jakeyesbeck.com/2016/02/14/ruby-threads-and-active-record-connections/
   - http://vigram-software-generals.blogspot.tw/2014/03/ruby-threads-activerecord-too-many.html
@@ -15,6 +15,9 @@
  - Others
   - [config pattern](https://gist.github.com/ilake/fc68aee49aec15a4e2865a635863bb26)
   - [accepts_nested_attributes_for with Has-Many-Through Relations](https://robots.thoughtbot.com/accepts-nested-attributes-for-with-has-many-through)
+  - Is Ruby pass-by-reference or pass-by-value?
+   - http://robertheaton.com/2014/07/22/is-ruby-pass-by-reference-or-pass-by-value/
+   - http://stackoverflow.com/questions/1872110/is-ruby-pass-by-reference-or-by-value
 
 #### articles
  - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
