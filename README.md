@@ -74,6 +74,7 @@
 - [Pass value in onClick](http://stackoverflow.com/questions/29810914/react-js-onclick-cant-pass-value-to-method/29810951#29810951)
 - [Use setState callback to make sure state be updated](http://stackoverflow.com/a/30783011/609365)
 - [React initialize flow diagram](https://hashnode.com/post/why-is-it-a-bad-idea-to-call-setstate-immediately-after-componentdidmount-in-react-cim5vz8kn01flek53aqa22mby)
+- [Reactjs Day 5 - Reactjs 大解密](http://ithelp.ithome.com.tw/articles/10156062)
 
 # Devops
 
