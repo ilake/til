@@ -18,6 +18,7 @@
   - Is Ruby pass-by-reference or pass-by-value?
     - http://robertheaton.com/2014/07/22/is-ruby-pass-by-reference-or-pass-by-value/
     - http://stackoverflow.com/questions/1872110/is-ruby-pass-by-reference-or-by-value
+  - rspec controller spec [render_views](https://www.relishapp.com/rspec/rspec-rails/docs/controller-specs/render-views)
 
 #### articles
  - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
