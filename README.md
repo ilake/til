@@ -39,6 +39,9 @@
 - [Prevent double click script](https://gist.github.com/ilake/b97de5c3235592280a0045b0f48670fd)
 - [Window.location](https://developer.mozilla.org/en-US/docs/Web/API/Window/location)
 - [String.prototype.replace](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
+- Object.assign
+ - https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
+ - [JavaScript 的 Object.assign 陷阱](http://jigsawye.com/2015/10/06/javascript-object-assign/)
 
 # React
 
