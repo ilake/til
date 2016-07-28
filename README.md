@@ -43,6 +43,9 @@
 - Object.assign
  - https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
  - [JavaScript 的 Object.assign 陷阱](http://jigsawye.com/2015/10/06/javascript-object-assign/)
+- onbeforeunload
+ - https://developer.mozilla.org/en-US/docs/Web/API/WindowEventHandlers/onbeforeunload
+ - http://stackoverflow.com/questions/30712377/jquery-beforeunload-custom-pop-up-window-for-leaving-a-page
 
 # React
 
