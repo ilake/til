@@ -46,6 +46,8 @@
 - onbeforeunload
  - https://developer.mozilla.org/en-US/docs/Web/API/WindowEventHandlers/onbeforeunload
  - http://stackoverflow.com/questions/30712377/jquery-beforeunload-custom-pop-up-window-for-leaving-a-page
+- [How to trigger a click on a link using jQuery](http://stackoverflow.com/questions/5811122/how-to-trigger-a-click-on-a-link-using-jquery)
+ - ```$('#test1')[0].click();```
 
 # React
 
