@@ -128,6 +128,9 @@
  - [CSS Order Priority](https://hungred.com/useful-information/css-priority-order-tips-tricks/) 
  - [Understanding offsetWidth, clientWidth, scrollWidth and -Height](http://stackoverflow.com/questions/21064101/understanding-offsetwidth-clientwidth-scrollwidth-and-height-respectively)
   - https://developer.mozilla.org/zh-TW/docs/Web/API/Element/scrollWidth
+ - css transition
+  - https://jsfiddle.net/ilake/jyhLqvuy/17/
+  - http://css3.bradshawenterprises.com/accordions/
 
 # Issue I met
 - [mysqldump special character issue](http://stackoverflow.com/questions/3583691/mysqldump-and-restore-with-special-characters-%C3%B8%C3%A6%C3%A5%C3%98%C3%86%C3%85)
