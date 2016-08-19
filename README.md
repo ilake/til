@@ -51,6 +51,9 @@
  - http://stackoverflow.com/questions/30712377/jquery-beforeunload-custom-pop-up-window-for-leaving-a-page
 - [How to trigger a click on a link using jQuery](http://stackoverflow.com/questions/5811122/how-to-trigger-a-click-on-a-link-using-jquery)
  - ```$('#test1')[0].click();```
+- handle array-like objects
+ - http://stackoverflow.com/questions/1424710/why-is-my-join-on-a-javascript-array-failing
+ - https://api.jquery.com/jQuery.makeArray/
 
 # React
 
