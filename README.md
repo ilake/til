@@ -132,6 +132,10 @@
   - https://jsfiddle.net/ilake/jyhLqvuy/17/
   - http://css3.bradshawenterprises.com/accordions/
  - [css text-transform](https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform)
+ - property vs attributes
+  - http://stackoverflow.com/questions/6003819/properties-and-attributes-in-html
+  - http://stackoverflow.com/questions/19246714/html-attributes-vs-properties
+  - http://stackoverflow.com/questions/5874652/prop-vs-attr
 
 # Issue I met
 - [mysqldump special character issue](http://stackoverflow.com/questions/3583691/mysqldump-and-restore-with-special-characters-%C3%B8%C3%A6%C3%A5%C3%98%C3%86%C3%85)
