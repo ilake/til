@@ -140,7 +140,7 @@
   - http://stackoverflow.com/questions/19246714/html-attributes-vs-properties
   - http://stackoverflow.com/questions/5874652/prop-vs-attr
  - [Determine Whether Two Date Ranges Overlap](http://stackoverflow.com/questions/325933/determine-whether-two-date-ranges-overlap)
- - [vertical-align sample](https://jsfiddle.net/ilake/mzL7arpq/)
+ - [vertical-align sample](https://jsfiddle.net/ilake/mzL7arpq/), [vertical-align-sampe-2](https://jsfiddle.net/ilake/7manafyL/)
 
 
 # Issue I met
