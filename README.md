@@ -140,6 +140,8 @@
   - http://stackoverflow.com/questions/19246714/html-attributes-vs-properties
   - http://stackoverflow.com/questions/5874652/prop-vs-attr
  - [Determine Whether Two Date Ranges Overlap](http://stackoverflow.com/questions/325933/determine-whether-two-date-ranges-overlap)
+ - [vertical-align sample](https://jsfiddle.net/ilake/mzL7arpq/)
+
 
 # Issue I met
 - [mysqldump special character issue](http://stackoverflow.com/questions/3583691/mysqldump-and-restore-with-special-characters-%C3%B8%C3%A6%C3%A5%C3%98%C3%86%C3%85)
