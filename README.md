@@ -54,6 +54,8 @@
 - handle array-like objects
  - http://stackoverflow.com/questions/1424710/why-is-my-join-on-a-javascript-array-failing
  - https://api.jquery.com/jQuery.makeArray/
+- [What does setTimeout with a 0ms delay do?](https://www.quora.com/What-does-setTimeout-with-a-0ms-delay-do)
+ - Let some function be executed immediately right after after the currrent function
 
 # React
 
