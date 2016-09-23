@@ -147,6 +147,7 @@
  - [Select where first letter in a range ( PostgreSQL )](http://stackoverflow.com/questions/8085651/select-where-first-letter-in-a-range-postgresql)
  - [Move js event to first](http://stackoverflow.com/questions/13979961/how-do-you-force-your-javascript-event-to-run-first-regardless-of-the-order-in)
  - [GROUP BY multiple columns using MySQL](http://stackoverflow.com/questions/1841426/is-it-possible-to-group-by-multiple-columns-using-mysql)
+ - [glob a directory in Ruby but exclude certain directories?](http://stackoverflow.com/a/27707682/609365)
 
 
 # Issue I met
