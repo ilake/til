@@ -22,6 +22,9 @@
   - scan
    - http://stackoverflow.com/questions/1628673/ruby-regex-for-a-split-every-four-characters-not-working
    - https://ruby-doc.org/core-2.2.0/String.html#scan-method
+  - [Checking assoication exists](http://stackoverflow.com/a/6261813/609365)
+  - [filter attributes changes](http://apidock.com/rails/ActiveModel/Dirty/attributes_changed_by_setter)
+    - `attributes_changed_by_setter.except!(:foo, :bar)`
 
 #### articles
  - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
