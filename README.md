@@ -25,6 +25,8 @@
   - [Checking assoication exists](http://stackoverflow.com/a/6261813/609365)
   - [filter attributes changes](http://apidock.com/rails/ActiveModel/Dirty/attributes_changed_by_setter)
     - `attributes_changed_by_setter.except!(:foo, :bar)`
+  - [glob a directory in Ruby but exclude certain directories?](http://stackoverflow.com/questions/4505566/is-there-a-way-to-glob-a-directory-in-ruby-but-exclude-certain-directories)
+    - [WARNING!!!](http://stackoverflow.com/questions/4505566/is-there-a-way-to-glob-a-directory-in-ruby-but-exclude-certain-directories#comment62698604_27707682)
 
 #### articles
  - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
