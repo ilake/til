@@ -156,6 +156,13 @@
  - [xml nokogiri example](https://gist.github.com/ilake/995ccfacf452ce10984d947c1dcab4ec)
  - [xml find with namespace](http://stackoverflow.com/a/5239991/609365)
  - [What does “xmlns” in XML mean?](http://stackoverflow.com/questions/1181888/what-does-xmlns-in-xml-mean)
+ - postgresql time/date
+   - [compare only time/date part of dateime](http://stackoverflow.com/questions/10298538/handling-time-using-postgresql)
+   - [8 PostgreSQL Date and Time Function Examples](http://www.thegeekstuff.com/2010/07/8-postgresql-date-and-time-function-examples/)
+    - now(), now()::date, now()::time, date_part(), age(), extract(), date_trunc(), to_char(), to_timestamp()
+   - [4 Tips for Working with Dates in PostgreSQL](http://blog.trackets.com/2013/08/26/4-tips-for-working-with-dates-in-postgresql.html)
+    - now, extract, interval, clock_timestamp
+   - [9.9. Date/Time Functions and Operators](https://www.postgresql.org/docs/9.2/static/functions-datetime.html)
 
 
 # Issue I met
