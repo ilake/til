@@ -163,8 +163,10 @@
    - [4 Tips for Working with Dates in PostgreSQL](http://blog.trackets.com/2013/08/26/4-tips-for-working-with-dates-in-postgresql.html)
      - now, extract, interval, clock_timestamp
    - [9.9. Date/Time Functions and Operators](https://www.postgresql.org/docs/9.2/static/functions-datetime.html)
- - PostgreSQL serach
+ - PostgreSQL search
    - [Pattern matching with LIKE, SIMILAR TO or regular expressions in PostgreSQL](http://dba.stackexchange.com/a/10696/36173)
+   - [PostgreSQL query performance variations](http://stackoverflow.com/a/13452528/609365)
+   - [Difference between GiST and GIN index](http://stackoverflow.com/a/28976555/609365)
 
 
 # Issue I met
