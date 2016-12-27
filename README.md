@@ -168,6 +168,8 @@
    - [Pattern matching with LIKE, SIMILAR TO or regular expressions in PostgreSQL](http://dba.stackexchange.com/a/10696/36173)
    - [PostgreSQL query performance variations](http://stackoverflow.com/a/13452528/609365)
    - [Difference between GiST and GIN index](http://stackoverflow.com/a/28976555/609365)
+ - [Using COALESCE to handle NULL values in PostgreSQL](http://stackoverflow.com/questions/27479180/using-coalesce-to-handle-null-values-in-postgresql)
+   - COALESCE, NULLIF
 
 
 # Issue I met
