@@ -143,6 +143,7 @@
    - [Fast Search Using PostgreSQL Trigram Indexes](https://about.gitlab.com/2016/03/18/fast-search-using-postgresql-trigram-indexes/) 
    - [Awesome Autocomplete: Trigram Search in Rails and PostgreSQL](https://www.sitepoint.com/awesome-autocomplete-trigram-search-in-rails-and-postgresql/)
      - similarity, ActiveRecord::Base.connection.quote
+   - [PostgreSQL扩展pg_trgm用法笔记](http://zhangwensheng.cn/blog/post/vincent/postgresql_extension_pgtrgm)
  
 # Others
  - [The Difference Between ID and Class](https://css-tricks.com/the-difference-between-id-and-class/)
