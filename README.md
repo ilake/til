@@ -128,6 +128,7 @@
    - `key`: what query be used
    - `key_len` lower is better
  - [Why Postgres Won't Always Use an Index](https://robots.thoughtbot.com/why-postgres-wont-always-use-an-index#how-indexes-are-used)
+   - [Why does PostgreSQL perform sequential scan on indexed column?](http://stackoverflow.com/questions/5203755/why-does-postgresql-perform-sequential-scan-on-indexed-column)
  - WebSockets From Scratch
   - https://blog.pusher.com/websockets-from-scratch/
  - selec * for update
