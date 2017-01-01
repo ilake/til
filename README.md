@@ -171,6 +171,9 @@
  - [Using COALESCE to handle NULL values in PostgreSQL](http://stackoverflow.com/questions/27479180/using-coalesce-to-handle-null-values-in-postgresql)
    - COALESCE, NULLIF
  - [Difference between LIKE and ~ in Postgres](http://stackoverflow.com/questions/12452395/difference-between-like-and-in-postgres/12459689#12459689)
+ - [How to Create Postgres Indexes Concurrently in ActiveRecord Migrations](https://robots.thoughtbot.com/how-to-create-postgres-indexes-concurrently-in)
+ - Postgresql tr_gram, Trgrams
+   - [Faster PostgreSQL Searches with Trigrams](http://blog.scoutapp.com/articles/2016/07/12/how-to-make-text-searches-in-postgresql-faster-with-trigram-similarity)
 
 
 # Issue I met
