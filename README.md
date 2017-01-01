@@ -174,6 +174,7 @@
  - [How to Create Postgres Indexes Concurrently in ActiveRecord Migrations](https://robots.thoughtbot.com/how-to-create-postgres-indexes-concurrently-in)
  - Postgresql tr_gram, Trgrams
    - [Faster PostgreSQL Searches with Trigrams](http://blog.scoutapp.com/articles/2016/07/12/how-to-make-text-searches-in-postgresql-faster-with-trigram-similarity)
+   - [Fast Search Using PostgreSQL Trigram Indexes](https://about.gitlab.com/2016/03/18/fast-search-using-postgresql-trigram-indexes/)
 
 
 # Issue I met
