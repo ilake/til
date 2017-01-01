@@ -170,6 +170,7 @@
    - [Difference between GiST and GIN index](http://stackoverflow.com/a/28976555/609365)
  - [Using COALESCE to handle NULL values in PostgreSQL](http://stackoverflow.com/questions/27479180/using-coalesce-to-handle-null-values-in-postgresql)
    - COALESCE, NULLIF
+ - [Difference between LIKE and ~ in Postgres](http://stackoverflow.com/questions/12452395/difference-between-like-and-in-postgres/12459689#12459689)
 
 
 # Issue I met
