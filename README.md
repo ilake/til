@@ -149,6 +149,8 @@ N=1时称为unigram，N=2称为bigram，N=3称为trigram，以此类推
    - [利用pg_trgm的gist和gin索引加速字符匹配查詢 ](http://blog.chinaunix.net/uid-20726500-id-4824895.html)
      - pg_trgm的工作原理是把字符串切成N個3元組，然後對這些3元組做匹配，所以如果作為查詢條件的字符串小於3個字符它就罷工了。
  - [如何用PostgreSQL解決一個人工智能語義去重的小問題](https://yq.aliyun.com/articles/25899)
+ - [從難纏的模糊查詢聊開 - PostgreSQL獨門絕招之一 GIN , GiST , SP-GiST , RUM 索引原理與技術背景](https://yq.aliyun.com/articles/68244?spm=5176.100239.blogrightarea25899.18.hDJtzC)
+ - [从相似度算法谈起 - Effective similarity search in PostgreSQL](https://github.com/digoal/blog/blob/master/201612/20161222_02.md?spm=5176.100239.blogcont68244.30.QI2Su0&file=20161222_02.md)
  
 # Others
  - [The Difference Between ID and Class](https://css-tricks.com/the-difference-between-id-and-class/)
