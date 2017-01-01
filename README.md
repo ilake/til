@@ -101,23 +101,8 @@
 #### deployment
  - When you have multiple servers for app, workers, search etc... and you have a upgrade like rails 4.1 to rails 4.2. You need to be careful of the different version of these servers. Like Rails 4.2 app, Rails 4.1 worker(app finished deployment first). It may has some problems and you probably need to deploy workers first.
  - Take care of the asset when you use auto-scale, the easist way to avoid any problem, expire everything `Rails.application.config.assets.version = "1.1"`
-
-# Others
- - [The Difference Between ID and Class](https://css-tricks.com/the-difference-between-id-and-class/)
- - [Adjacent sibling selectors, what plus + symbol means in css](https://www.w3.org/TR/CSS2/selector.html#adjacent-selectors)
- - [About line-height](http://muki.tw/tech/css-line-height/)
- - [Ruby 語法放大鏡之「你知道 require 幫你做了什麼事嗎?」](http://kaochenlong.com/2016/05/01/require/)
- - [Ruby class instance variable vs. class variable](http://stackoverflow.com/questions/15773552/ruby-class-instance-variable-vs-class-variable)
- - [How Do I Know Whether My Rails App Is Thread-safe or Not?](https://bearmetal.eu/theden/how-do-i-know-whether-my-rails-app-is-thread-safe-or-not/)
- - CSS display:inline vs inline-block
-   - http://stackoverflow.com/questions/8969381/what-is-the-difference-between-display-inline-and-display-inline-block
-   - http://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block
- - code smell
-   - https://www.youtube.com/watch?v=PJjHfa5yxlU
-   - https://github.com/troessner/reek
- - content too long
-  - http://note.tc.edu.tw/714.html
-  - `word-wrap: break-word;  overflow: hidden;`
+ 
+# DB related
  - mysql explain
   - http://emn178.pixnet.net/blog/post/83011289-mysql-explain---%E6%95%88%E8%83%BD%E5%88%86%E6%9E%90%E8%AA%9E%E5%8F%A5
    - rows lower is better
@@ -129,35 +114,15 @@
    - `key_len` lower is better
  - [Why Postgres Won't Always Use an Index](https://robots.thoughtbot.com/why-postgres-wont-always-use-an-index#how-indexes-are-used)
    - [Why does PostgreSQL perform sequential scan on indexed column?](http://stackoverflow.com/questions/5203755/why-does-postgresql-perform-sequential-scan-on-indexed-column)
- - WebSockets From Scratch
-  - https://blog.pusher.com/websockets-from-scratch/
  - selec * for update
   - https://gist.github.com/ilake/f163ccf349fdc288e009
   - http://api.rubyonrails.org/classes/ActiveRecord/Locking/Optimistic.html
   - http://stackoverflow.com/questions/21404484/rails-3-how-to-simply-test-pessimistic-locking-on-console
   - [Prevent MySQL deadlocks in your Rails application](https://www.brightbox.com/blog/2014/11/13/preventing-mysql-deadlocks/)
   - [MySQL locking for the busy web developer](https://www.brightbox.com/blog/2013/10/31/on-mysql-locks/)
- - [CSS Order Priority](https://hungred.com/useful-information/css-priority-order-tips-tricks/) 
- - [Understanding offsetWidth, clientWidth, scrollWidth and -Height](http://stackoverflow.com/questions/21064101/understanding-offsetwidth-clientwidth-scrollwidth-and-height-respectively)
-  - https://developer.mozilla.org/zh-TW/docs/Web/API/Element/scrollWidth
- - css transition
-  - https://jsfiddle.net/ilake/jyhLqvuy/17/
-  - http://css3.bradshawenterprises.com/accordions/
- - [css text-transform](https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform)
- - HTML property vs attributes
-  - http://stackoverflow.com/questions/6003819/properties-and-attributes-in-html
-  - http://stackoverflow.com/questions/19246714/html-attributes-vs-properties
-  - http://stackoverflow.com/questions/5874652/prop-vs-attr
- - [Determine Whether Two Date Ranges Overlap](http://stackoverflow.com/questions/325933/determine-whether-two-date-ranges-overlap)
- - [vertical-align sample](https://jsfiddle.net/ilake/mzL7arpq/), [vertical-align-sampe-2](https://jsfiddle.net/ilake/7manafyL/)
- - [viewpoint height - Make div 100% height of browser window](http://stackoverflow.com/questions/1575141/make-div-100-height-of-browser-window)
  - [Select where first letter in a range ( PostgreSQL )](http://stackoverflow.com/questions/8085651/select-where-first-letter-in-a-range-postgresql)
- - [Move js event to first](http://stackoverflow.com/questions/13979961/how-do-you-force-your-javascript-event-to-run-first-regardless-of-the-order-in)
+ - [Determine Whether Two Date Ranges Overlap](http://stackoverflow.com/questions/325933/determine-whether-two-date-ranges-overlap)
  - [GROUP BY multiple columns using MySQL](http://stackoverflow.com/questions/1841426/is-it-possible-to-group-by-multiple-columns-using-mysql)
- - [glob a directory in Ruby but exclude certain directories?](http://stackoverflow.com/a/27707682/609365)
- - [xml nokogiri example](https://gist.github.com/ilake/995ccfacf452ce10984d947c1dcab4ec)
- - [xml find with namespace](http://stackoverflow.com/a/5239991/609365)
- - [What does “xmlns” in XML mean?](http://stackoverflow.com/questions/1181888/what-does-xmlns-in-xml-mean)
  - postgresql time/date
    - [compare only time/date part of dateime](http://stackoverflow.com/questions/10298538/handling-time-using-postgresql)
    - [8 PostgreSQL Date and Time Function Examples](http://www.thegeekstuff.com/2010/07/8-postgresql-date-and-time-function-examples/)
@@ -175,7 +140,44 @@
  - [How to Create Postgres Indexes Concurrently in ActiveRecord Migrations](https://robots.thoughtbot.com/how-to-create-postgres-indexes-concurrently-in)
  - Postgresql tr_gram, Trgrams
    - [Faster PostgreSQL Searches with Trigrams](http://blog.scoutapp.com/articles/2016/07/12/how-to-make-text-searches-in-postgresql-faster-with-trigram-similarity)
-   - [Fast Search Using PostgreSQL Trigram Indexes](https://about.gitlab.com/2016/03/18/fast-search-using-postgresql-trigram-indexes/)
+   - [Fast Search Using PostgreSQL Trigram Indexes](https://about.gitlab.com/2016/03/18/fast-search-using-postgresql-trigram-indexes/) 
+ 
+# Others
+ - [The Difference Between ID and Class](https://css-tricks.com/the-difference-between-id-and-class/)
+ - [Adjacent sibling selectors, what plus + symbol means in css](https://www.w3.org/TR/CSS2/selector.html#adjacent-selectors)
+ - [About line-height](http://muki.tw/tech/css-line-height/)
+ - [Ruby 語法放大鏡之「你知道 require 幫你做了什麼事嗎?」](http://kaochenlong.com/2016/05/01/require/)
+ - [Ruby class instance variable vs. class variable](http://stackoverflow.com/questions/15773552/ruby-class-instance-variable-vs-class-variable)
+ - [How Do I Know Whether My Rails App Is Thread-safe or Not?](https://bearmetal.eu/theden/how-do-i-know-whether-my-rails-app-is-thread-safe-or-not/)
+ - CSS display:inline vs inline-block
+   - http://stackoverflow.com/questions/8969381/what-is-the-difference-between-display-inline-and-display-inline-block
+   - http://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block
+ - code smell
+   - https://www.youtube.com/watch?v=PJjHfa5yxlU
+   - https://github.com/troessner/reek
+ - content too long
+  - http://note.tc.edu.tw/714.html
+  - `word-wrap: break-word;  overflow: hidden;`
+ - WebSockets From Scratch
+  - https://blog.pusher.com/websockets-from-scratch/
+ - [CSS Order Priority](https://hungred.com/useful-information/css-priority-order-tips-tricks/) 
+ - [Understanding offsetWidth, clientWidth, scrollWidth and -Height](http://stackoverflow.com/questions/21064101/understanding-offsetwidth-clientwidth-scrollwidth-and-height-respectively)
+  - https://developer.mozilla.org/zh-TW/docs/Web/API/Element/scrollWidth
+ - css transition
+  - https://jsfiddle.net/ilake/jyhLqvuy/17/
+  - http://css3.bradshawenterprises.com/accordions/
+ - [css text-transform](https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform)
+ - HTML property vs attributes
+  - http://stackoverflow.com/questions/6003819/properties-and-attributes-in-html
+  - http://stackoverflow.com/questions/19246714/html-attributes-vs-properties
+  - http://stackoverflow.com/questions/5874652/prop-vs-attr
+ - [vertical-align sample](https://jsfiddle.net/ilake/mzL7arpq/), [vertical-align-sampe-2](https://jsfiddle.net/ilake/7manafyL/)
+ - [viewpoint height - Make div 100% height of browser window](http://stackoverflow.com/questions/1575141/make-div-100-height-of-browser-window)
+ - [Move js event to first](http://stackoverflow.com/questions/13979961/how-do-you-force-your-javascript-event-to-run-first-regardless-of-the-order-in)
+ - [glob a directory in Ruby but exclude certain directories?](http://stackoverflow.com/a/27707682/609365)
+ - [xml nokogiri example](https://gist.github.com/ilake/995ccfacf452ce10984d947c1dcab4ec)
+ - [xml find with namespace](http://stackoverflow.com/a/5239991/609365)
+ - [What does “xmlns” in XML mean?](http://stackoverflow.com/questions/1181888/what-does-xmlns-in-xml-mean)
 
 
 # Issue I met
