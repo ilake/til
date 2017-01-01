@@ -141,6 +141,8 @@
  - Postgresql tr_gram, Trgrams
    - [Faster PostgreSQL Searches with Trigrams](http://blog.scoutapp.com/articles/2016/07/12/how-to-make-text-searches-in-postgresql-faster-with-trigram-similarity)
    - [Fast Search Using PostgreSQL Trigram Indexes](https://about.gitlab.com/2016/03/18/fast-search-using-postgresql-trigram-indexes/) 
+   - [Awesome Autocomplete: Trigram Search in Rails and PostgreSQL](https://www.sitepoint.com/awesome-autocomplete-trigram-search-in-rails-and-postgresql/)
+     - similarity, ActiveRecord::Base.connection.quote
  
 # Others
  - [The Difference Between ID and Class](https://css-tricks.com/the-difference-between-id-and-class/)
