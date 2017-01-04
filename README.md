@@ -188,6 +188,7 @@ N=1时称为unigram，N=2称为bigram，N=3称为trigram，以此类推
  - [xml nokogiri example](https://gist.github.com/ilake/995ccfacf452ce10984d947c1dcab4ec)
  - [xml find with namespace](http://stackoverflow.com/a/5239991/609365)
  - [What does “xmlns” in XML mean?](http://stackoverflow.com/questions/1181888/what-does-xmlns-in-xml-mean)
+ - [Momentum Scrolling on iOS Overflow Elements](https://css-tricks.com/snippets/css/momentum-scrolling-on-ios-overflow-elements/)
 
 
 # Issue I met
