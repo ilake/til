@@ -195,10 +195,8 @@ N=1时称为unigram，N=2称为bigram，N=3称为trigram，以此类推
  - [xml find with namespace](http://stackoverflow.com/a/5239991/609365)
  - [What does “xmlns” in XML mean?](http://stackoverflow.com/questions/1181888/what-does-xmlns-in-xml-mean)
  - [Momentum Scrolling on iOS Overflow Elements](https://css-tricks.com/snippets/css/momentum-scrolling-on-ios-overflow-elements/)
-
-
-# Issue I met
-- [mysqldump special character issue](http://stackoverflow.com/questions/3583691/mysqldump-and-restore-with-special-characters-%C3%B8%C3%A6%C3%A5%C3%98%C3%86%C3%85)
+ - [mysqldump special character issue](http://stackoverflow.com/questions/3583691/mysqldump-and-restore-with-special-characters-%C3%B8%C3%A6%C3%A5%C3%98%C3%86%C3%85)
+ - [Bootstrap modal appearing under background in mobile](http://stackoverflow.com/questions/10636667/bootstrap-modal-appearing-under-background#comment54673813_11788713)
 
 # Tool
 - resize icons
