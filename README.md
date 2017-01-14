@@ -197,6 +197,9 @@ N=1时称为unigram，N=2称为bigram，N=3称为trigram，以此类推
  - [Momentum Scrolling on iOS Overflow Elements](https://css-tricks.com/snippets/css/momentum-scrolling-on-ios-overflow-elements/)
  - [mysqldump special character issue](http://stackoverflow.com/questions/3583691/mysqldump-and-restore-with-special-characters-%C3%B8%C3%A6%C3%A5%C3%98%C3%86%C3%85)
  - [Bootstrap modal appearing under background in mobile](http://stackoverflow.com/questions/10636667/bootstrap-modal-appearing-under-background#comment54673813_11788713)
+ - ios scroll disapper issue
+   - [iOS 5 Native Scrolling](https://web.archive.org/web/20131005175118/http://cantina.co/2012/03/06/ios-5-native-scrolling-grins-and-gothcas/)
+   - [iPad Safari scrolling causes HTML elements to disappear and reappear with a delay](http://stackoverflow.com/a/10170170/609365)
 
 # Tool
 - resize icons
