@@ -156,6 +156,7 @@ N=1时称为unigram，N=2称为bigram，N=3称为trigram，以此类推
  - [如何用PostgreSQL解決一個人工智能語義去重的小問題](https://yq.aliyun.com/articles/25899)
  - [從難纏的模糊查詢聊開 - PostgreSQL獨門絕招之一 GIN , GiST , SP-GiST , RUM 索引原理與技術背景](https://yq.aliyun.com/articles/68244?spm=5176.100239.blogrightarea25899.18.hDJtzC)
  - [从相似度算法谈起 - Effective similarity search in PostgreSQL](https://github.com/digoal/blog/blob/master/201612/20161222_02.md?spm=5176.100239.blogcont68244.30.QI2Su0&file=20161222_02.md)
+ - [Use Subqueries to Count Distinct 50X Faster](https://www.periscopedata.com/blog/use-subqueries-to-count-distinct-50x-faster.html)
  
 # Others
  - [The Difference Between ID and Class](https://css-tricks.com/the-difference-between-id-and-class/)
