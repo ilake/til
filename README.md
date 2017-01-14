@@ -28,6 +28,11 @@
   - [glob a directory in Ruby but exclude certain directories?](http://stackoverflow.com/questions/4505566/is-there-a-way-to-glob-a-directory-in-ruby-but-exclude-certain-directories)
     - [WARNING!!!](http://stackoverflow.com/questions/4505566/is-there-a-way-to-glob-a-directory-in-ruby-but-exclude-certain-directories#comment62698604_27707682)
    - [Using heredoc for prettier Ruby code](https://makandracards.com/makandra/1675-using-heredoc-for-prettier-ruby-code)
+ - SSL Stuffs
+   - [What does force_ssl do in Rails?](http://stackoverflow.com/questions/15676596/what-does-force-ssl-do-in-rails)
+   - [config.force_ssl is different than controller force_ssl](http://www.eq8.eu/blogs/14-config-force_ssl-is-different-than-controller-force_ssl)
+   - [Dangers of Session Hijacking](http://railscasts.com/episodes/356-dangers-of-session-hijacking?autoplay=true)
+   - [How can I make cookies secure (https-only) by default in rails?](http://stackoverflow.com/questions/3773605/how-can-i-make-cookies-secure-https-only-by-default-in-rails)
 
 #### articles
  - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
