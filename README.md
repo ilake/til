@@ -200,6 +200,7 @@ N=1时称为unigram，N=2称为bigram，N=3称为trigram，以此类推
  - ios scroll disapper issue
    - [iOS 5 Native Scrolling](https://web.archive.org/web/20131005175118/http://cantina.co/2012/03/06/ios-5-native-scrolling-grins-and-gothcas/)
    - [iPad Safari scrolling causes HTML elements to disappear and reappear with a delay](http://stackoverflow.com/a/10170170/609365)
+ - [iPad Safari - Make keyboard disappear](http://stackoverflow.com/questions/5937339/ipad-safari-make-keyboard-disappear)
 
 # Tool
 - resize icons
