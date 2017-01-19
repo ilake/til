@@ -100,6 +100,9 @@
 - [React initialize flow diagram](https://hashnode.com/post/why-is-it-a-bad-idea-to-call-setstate-immediately-after-componentdidmount-in-react-cim5vz8kn01flek53aqa22mby)
 - [Reactjs Day 5 - Reactjs 大解密](http://ithelp.ithome.com.tw/articles/10156062)
 - [controlled & uncontrolled component](https://facebook.github.io/react/docs/forms.html#uncontrolled-components)
+- ref
+  - [[Reactjs] 關於 Refs](http://andyyou.logdown.com/posts/179646-reactjs-regarding-the-refs)
+    - 不要在 render() 方法裡面使用 this.refs 或者當任何元件的 render() 正在運行的時候。
 
 # Devops
 
