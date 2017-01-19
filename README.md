@@ -103,6 +103,7 @@
 - ref
   - [[Reactjs] 關於 Refs](http://andyyou.logdown.com/posts/179646-reactjs-regarding-the-refs)
     - 不要在 render() 方法裡面使用 this.refs 或者當任何元件的 render() 正在運行的時候。
+  - [Using ref Attribute](https://www.reactenlightenment.com/basic-react-components/6.9.html)
 
 # Devops
 
