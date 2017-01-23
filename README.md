@@ -67,6 +67,7 @@
  - https://api.jquery.com/jQuery.makeArray/
 - [What does setTimeout with a 0ms delay do?](https://www.quora.com/What-does-setTimeout-with-a-0ms-delay-do)
  - Let some function be executed immediately right after after the currrent function
+- [JavaScript Promise 實作理解筆記](http://opass.logdown.com/posts/296834-javascript-promise-for-see-notes)
 
 # React
 
