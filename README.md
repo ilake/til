@@ -104,6 +104,13 @@
   - [[Reactjs] 關於 Refs](http://andyyou.logdown.com/posts/179646-reactjs-regarding-the-refs)
     - 不要在 render() 方法裡面使用 this.refs 或者當任何元件的 render() 正在運行的時候。
   - [Using ref Attribute](https://www.reactenlightenment.com/basic-react-components/6.9.html)
+- Higher order component
+  - [Mixins Considered Harmful](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html)
+  - [THE POWER OF THE HIGHER ORDER](http://blog.scottlogic.com/2016/09/20/the-power-of-the-higher-order.html)
+  - [React Higher Order Components in depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.qo9gmckay)
+  - [Higher-Order Components](https://facebook.github.io/react/docs/higher-order-components.html)
+  - [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.hfk3cfnag)
+  - [React進階——使用高階組件（Higher-order Components）優化你的代碼](https://segmentfault.com/a/1190000004598113)
 
 # Devops
 
