@@ -169,6 +169,11 @@ N=1时称为unigram，N=2称为bigram，N=3称为trigram，以此类推
  - [從難纏的模糊查詢聊開 - PostgreSQL獨門絕招之一 GIN , GiST , SP-GiST , RUM 索引原理與技術背景](https://yq.aliyun.com/articles/68244?spm=5176.100239.blogrightarea25899.18.hDJtzC)
  - [从相似度算法谈起 - Effective similarity search in PostgreSQL](https://github.com/digoal/blog/blob/master/201612/20161222_02.md?spm=5176.100239.blogcont68244.30.QI2Su0&file=20161222_02.md)
  - [Use Subqueries to Count Distinct 50X Faster](https://www.periscopedata.com/blog/use-subqueries-to-count-distinct-50x-faster.html)
+ - collection
+   - [談談SQL Server的定序(Collation)](https://dotblogs.com.tw/jimmyyu/archive/2009/08/30/10320.aspx)
+   - [PostgreSQL Collation Support](https://www.postgresql.org/docs/9.1/static/collation.html)
+   - [日本語 Solution when PostgreSQL can not properly sort strings](http://qiita.com/anoworl/items/af9f12f915b8969ea40d)
+   - [HerokuのPostgresqlで日本語ソートにハマった](http://count0.org/2012/11/21/heroku-postgresql-japanese-sort.html)
  
 # Others
  - [The Difference Between ID and Class](https://css-tricks.com/the-difference-between-id-and-class/)
