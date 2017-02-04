@@ -33,6 +33,9 @@
    - [config.force_ssl is different than controller force_ssl](http://www.eq8.eu/blogs/14-config-force_ssl-is-different-than-controller-force_ssl)
    - [Dangers of Session Hijacking](http://railscasts.com/episodes/356-dangers-of-session-hijacking?autoplay=true)
    - [How can I make cookies secure (https-only) by default in rails?](http://stackoverflow.com/questions/3773605/how-can-i-make-cookies-secure-https-only-by-default-in-rails)
+ - handle async tasks
+   - [Expeditor provides asynchronous execution and fault tolerance for microservices](https://github.com/cookpad/expeditor)
+   - [利用 Celluloid Future 在 Ruby 中平行化處理 I/O](http://blog.brucehsu.org/posts/2017/02/04/utilize-celluloid-future-for-parallel-io-tasks/)
 
 #### articles
  - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
