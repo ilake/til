@@ -2,6 +2,7 @@
  - Ruby Threads and ActiveRecord Connections
   - http://jakeyesbeck.com/2016/02/14/ruby-threads-and-active-record-connections/
   - http://vigram-software-generals.blogspot.tw/2014/03/ruby-threads-activerecord-too-many.html
+  - [Ruby Concurrency and Parallelism: A Practical Tutorial](https://www.toptal.com/ruby/ruby-concurrency-and-parallelism-a-practical-primer)
  - Time
   - https://github.com/ramhoj/time-zone-article/issues/1
   - http://www.elabs.se/blog/36-working-with-time-zones-in-ruby-on-rails
