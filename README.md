@@ -36,6 +36,11 @@
  - handle async tasks
    - [Expeditor provides asynchronous execution and fault tolerance for microservices](https://github.com/cookpad/expeditor)
    - [利用 Celluloid Future 在 Ruby 中平行化處理 I/O](http://blog.brucehsu.org/posts/2017/02/04/utilize-celluloid-future-for-parallel-io-tasks/)
+     - https://www.facebook.com/groups/208890269174940/permalink/1348477431882879/
+     - [I/O Model](https://wirelessr.gitbooks.io/working-life/content/io_model.html)
+     - [Ruby concurrency explained](http://merbist.com/2011/02/22/concurrency-in-ruby-explained/)
+     - [What is the difference between a thread and a fiber?](http://stackoverflow.com/questions/796217/what-is-the-difference-between-a-thread-and-a-fiber)
+     - [Is non-blocking I/O really faster than multi-threaded blocking I/O? How?](http://stackoverflow.com/questions/8546273/is-non-blocking-i-o-really-faster-than-multi-threaded-blocking-i-o-how)
 
 #### articles
  - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
