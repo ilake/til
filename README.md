@@ -42,6 +42,9 @@
      - [Ruby concurrency explained](http://merbist.com/2011/02/22/concurrency-in-ruby-explained/)
      - [What is the difference between a thread and a fiber?](http://stackoverflow.com/questions/796217/what-is-the-difference-between-a-thread-and-a-fiber)
      - [Is non-blocking I/O really faster than multi-threaded blocking I/O? How?](http://stackoverflow.com/questions/8546273/is-non-blocking-i-o-really-faster-than-multi-threaded-blocking-i-o-how)
+  - Actor
+     - [基於 Actor 模式並發的介紹 (Ruby)](https://www.oschina.net/translate/ruby-gentle-introduction-to-actor-based-concurrency)
+     - [A gentle introduction to actor-based concurrency](http://practicingruby.com/articles/gentle-intro-to-actor-based-concurrency)
 
 #### articles
  - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
