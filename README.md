@@ -232,6 +232,9 @@ N=1时称为unigram，N=2称为bigram，N=3称为trigram，以此类推
    - [iOS 5 Native Scrolling](https://web.archive.org/web/20131005175118/http://cantina.co/2012/03/06/ios-5-native-scrolling-grins-and-gothcas/)
    - [iPad Safari scrolling causes HTML elements to disappear and reappear with a delay](http://stackoverflow.com/a/10170170/609365)
  - [iPad Safari - Make keyboard disappear](http://stackoverflow.com/questions/5937339/ipad-safari-make-keyboard-disappear)
+ - heroku scale
+  - [1 to 1000 - Scaling a Rails App on Heroku](https://www.joinhandshake.com/engineering/scaling/heroku/2016/01/15/1-to-1000-scaling-a-rails-app-on-heroku.html)
+  - [Scaling Rails to 125,000 Requests per Minute on Heroku](https://zeemee.engineering/scaling-rails-to-125-000-requests-per-minute-on-heroku-b4128a10a769#.3wfhp3aff)
 
 # Tool
 - resize icons
