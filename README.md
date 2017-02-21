@@ -35,6 +35,7 @@
    - [Dangers of Session Hijacking](http://railscasts.com/episodes/356-dangers-of-session-hijacking?autoplay=true)
    - [How can I make cookies secure (https-only) by default in rails?](http://stackoverflow.com/questions/3773605/how-can-i-make-cookies-secure-https-only-by-default-in-rails)
  - concurrency, parallal
+   - [Ruby SSE Server 動手做](https://tonytonyjan.net/2015/11/05/concurrent-ruby/)
    - [Expeditor provides asynchronous execution and fault tolerance for microservices](https://github.com/cookpad/expeditor)
    - [利用 Celluloid Future 在 Ruby 中平行化處理 I/O](http://blog.brucehsu.org/posts/2017/02/04/utilize-celluloid-future-for-parallel-io-tasks/)
      - https://www.facebook.com/groups/208890269174940/permalink/1348477431882879/
