@@ -131,6 +131,10 @@
   - [Higher-Order Components](https://facebook.github.io/react/docs/higher-order-components.html)
   - [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.hfk3cfnag)
   - [React進階——使用高階組件（Higher-order Components）優化你的代碼](https://segmentfault.com/a/1190000004598113)
+- [ES6篇 - let與const](http://ithelp.ithome.com.tw/articles/10185142)
+- [ES6篇: Module System(模組系統)](http://ithelp.ithome.com.tw/articles/10185692)
+- [ES6篇 - Class(類別)](http://ithelp.ithome.com.tw/articles/10185583)
+- [Destructuring Assignment(解構賦值)](http://ithelp.ithome.com.tw/articles/10185430)
 
 # Devops
 
