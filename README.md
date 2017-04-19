@@ -83,10 +83,26 @@
  - Let some function be executed immediately right after after the currrent function
 - [JavaScript Promise 實作理解筆記](http://opass.logdown.com/posts/296834-javascript-promise-for-see-notes)
 - [npm install --save-dev vs npm --save](http://stackoverflow.com/questions/19578796/what-is-the-save-option-for-npm-install)
+ - [What does -save-dev mean in npm install --save-dev](http://stackoverflow.com/questions/19223051/grunt-js-what-does-save-dev-mean-in-npm-install-grunt-save-dev)
 - What is yarn
  - [取代 npm 的新利器 Yarn](https://medium.com/@jackypan1989/%E5%8F%96%E4%BB%A3-npm-%E7%9A%84%E6%96%B0%E5%88%A9%E5%99%A8-yarn-7d97f2f409b9)
  - [[譯] Yarn - Javascript 新一代套件管理](http://andyyou.github.io/2016/10/12/new-package-manager-javascript-yarn/)
  - [Migrating from npm](https://yarnpkg.com/lang/en/docs/migrating-from-npm/)
+ - [webpack](https://webpack.js.org/guides/get-started/)
+   - [webpack concept](https://webpack.js.org/concepts/)
+   - [webpack configuration](- https://webpack.js.org/configuration/)
+     - [What does “publicPath” in webpack do?](http://stackoverflow.com/questions/28846814/what-does-publicpath-in-webpack-do)
+     - What is loader for?
+       - webpack僅能處理Javascript所以需要一些Loader來幫忙。例如,處理CSS檔案，我們需要使用style-loader。
+   - [如何使用 Webpack 模組整合工具](https://rhadow.github.io/2015/03/23/webpackIntro/)
+   - [WEBPACK入門教學筆記](http://blog.kkbruce.net/2015/10/webpack.html#.WPdwIlOGNE5)
+   - [babel-loader jsx SyntaxError: Unexpected token](http://stackoverflow.com/questions/33460420/babel-loader-jsx-syntaxerror-unexpected-token)
+    - even react need babel support
+    - [babel presets](https://babeljs.io/docs/plugins/#presets)
+ - import, export
+  - [Why es6 react component works only with “export default”?](http://stackoverflow.com/questions/31852933/why-es6-react-component-works-only-with-export-default)
+  - [ES6 - Convert from 'require' to 'import'](http://stackoverflow.com/questions/30898686/es6-convert-from-require-to-import)
+  - [ES6: `import * as React` vs `import React`](https://discuss.reactjs.org/t/es6-import-as-react-vs-import-react/360/3)
 
 # React
 
