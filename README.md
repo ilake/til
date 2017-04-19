@@ -82,6 +82,11 @@
 - [What does setTimeout with a 0ms delay do?](https://www.quora.com/What-does-setTimeout-with-a-0ms-delay-do)
  - Let some function be executed immediately right after after the currrent function
 - [JavaScript Promise 實作理解筆記](http://opass.logdown.com/posts/296834-javascript-promise-for-see-notes)
+- [npm install --save-dev vs npm --save](http://stackoverflow.com/questions/19578796/what-is-the-save-option-for-npm-install)
+- What is yarn
+ - [取代 npm 的新利器 Yarn](https://medium.com/@jackypan1989/%E5%8F%96%E4%BB%A3-npm-%E7%9A%84%E6%96%B0%E5%88%A9%E5%99%A8-yarn-7d97f2f409b9)
+ - [[譯] Yarn - Javascript 新一代套件管理](http://andyyou.github.io/2016/10/12/new-package-manager-javascript-yarn/)
+ - [Migrating from npm](https://yarnpkg.com/lang/en/docs/migrating-from-npm/)
 
 # React
 
