@@ -265,6 +265,9 @@ N=1时称为unigram，N=2称为bigram，N=3称为trigram，以此类推
  - heroku scale
   - [1 to 1000 - Scaling a Rails App on Heroku](https://www.joinhandshake.com/engineering/scaling/heroku/2016/01/15/1-to-1000-scaling-a-rails-app-on-heroku.html)
   - [Scaling Rails to 125,000 Requests per Minute on Heroku](https://zeemee.engineering/scaling-rails-to-125-000-requests-per-minute-on-heroku-b4128a10a769#.3wfhp3aff)
+  - [git merge conflict automatic resolution]
+    - git merge -s recursive -X theirs source_branch
+    - git merge -Xours B
 
 # Tool
 - resize icons
