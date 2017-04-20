@@ -101,6 +101,7 @@
     - [babel presets](https://babeljs.io/docs/plugins/#presets)
     - styling
       - [webpack styling](https://medium.com/statuscode/introducing-webpacker-7136d66cddfb#3181)
+    - [Using Webpack in Rails with the Webpacker Gem Video](https://gorails.com/episodes/using-webpack-in-rails-with-webpacker-gem?autoplay=1)
  - import, export
   - [Why es6 react component works only with “export default”?](http://stackoverflow.com/questions/31852933/why-es6-react-component-works-only-with-export-default)
   - [ES6 - Convert from 'require' to 'import'](http://stackoverflow.com/questions/30898686/es6-convert-from-require-to-import)
