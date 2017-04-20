@@ -90,7 +90,7 @@
  - [Migrating from npm](https://yarnpkg.com/lang/en/docs/migrating-from-npm/)
  - [webpack](https://webpack.js.org/guides/get-started/)
    - [webpack concept](https://webpack.js.org/concepts/)
-   - [webpack configuration](- https://webpack.js.org/configuration/)
+   - [webpack configuration](https://webpack.js.org/configuration/)
      - [What does “publicPath” in webpack do?](http://stackoverflow.com/questions/28846814/what-does-publicpath-in-webpack-do)
      - What is loader for?
        - webpack僅能處理Javascript所以需要一些Loader來幫忙。例如,處理CSS檔案，我們需要使用style-loader。
@@ -125,14 +125,6 @@
   - http://stackoverflow.com/questions/29308937/trouble-requiring-image-module-in-react-native
 - [What is data-react-checksum](http://stackoverflow.com/questions/34311221/what-is-checksum-in-react-and-how-to-use-it)
 - [Rendering React Components on the Server](http://www.crmarsh.com/react-ssr/)
-
-#### webpack
-- [React with webpack - part 1](http://jslog.com/2014/10/02/react-with-webpack-part-1/)
- - use `render` to replace `renderComponent` http://stackoverflow.com/questions/30698585/react-typeerror-react-rendercomponent-is-not-a-function
-- [Getting Started](http://webpack.github.io/docs/tutorials/getting-started/)
-- [Howto](https://github.com/petehunt/webpack-howto)
-- [Why You Should Try React and Rails Integration Using Webpack](https://www.netguru.co/blog/react-rails-webpack)
-- [React on rails](https://github.com/shakacode/react_on_rails/)
 
 #### others
 - [Perform debounce in React.js](http://stackoverflow.com/questions/23123138/perform-debounce-in-react-js/28046731#28046731)
