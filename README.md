@@ -47,6 +47,7 @@
   - Actor
      - [基於 Actor 模式並發的介紹 (Ruby)](https://www.oschina.net/translate/ruby-gentle-introduction-to-actor-based-concurrency)
      - [A gentle introduction to actor-based concurrency](http://practicingruby.com/articles/gentle-intro-to-actor-based-concurrency)
+  - [Use specific mysql index with rails](http://stackoverflow.com/questions/13904035/use-specific-mysql-index-with-rails)
 
 #### articles
  - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
