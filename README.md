@@ -264,6 +264,14 @@ N=1时称为unigram，N=2称为bigram，N=3称为trigram，以此类推
   - [git merge conflict automatic resolution]
     - git merge -s recursive -X theirs source_branch
     - git merge -Xours B
+  - use google font
+     - import https://fonts.google.com/earlyaccess#Noto+Sans+JP
+     - download https://www.google.com/get/noto/#sans-jpan
+     - use in rails, heroku
+       - http://qiita.com/tochi/items/0d61bceef241d4fce07e
+         - put font files under .fonts folder, Heroku understand it.
+       - https://reinteractive.com/posts/270-wickedpdf-and-custom-fonts-in-rails
+     
 
 # Tool
 - resize icons
