@@ -157,7 +157,7 @@
 - [Destructuring Assignment(解構賦值)](http://ithelp.ithome.com.tw/articles/10185430)
 - reactconf-2017
   - [A Beginner's Guide to Code Splitting Your React App](http://conf.reactjs.org/speakers/neehar)
-   - import async
+    - import async
   - [create-react-native-app lightning talk](http://conf.reactjs.org/speakers/adam)
     - https://github.com/react-community/create-react-native-app
     - [利用 Create React Native App 快速建立 React Native 應用](https://ifun01.com/8NVOPF7.html)
