@@ -161,6 +161,7 @@
   - [create-react-native-app lightning talk](http://conf.reactjs.org/speakers/adam)
     - https://github.com/react-community/create-react-native-app
     - [利用 Create React Native App 快速建立 React Native 應用](https://ifun01.com/8NVOPF7.html)
+    - something similar [create-react-app](https://github.com/facebookincubator/create-react-app)
   - [React-Storybook: Design, Develop, Document and Debug your React UI components](http://conf.reactjs.org/speakers/marielaure)
     - https://storybook.js.org/
   - [Learn Once, Route Anywhere](http://conf.reactjs.org/speakers/michael)
