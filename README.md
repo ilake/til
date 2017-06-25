@@ -169,6 +169,8 @@
     - https://github.com/ReactTraining/react-router
   - [A Prettier Printer](http://conf.reactjs.org/speakers/james)
     - https://github.com/prettier/prettier
+ - redux
+   - A cartoon intro to redux(https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 
 # Devops
 
